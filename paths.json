@@ -1,6 +1,6 @@
 {
   "mappings": [
-    "/content/mbachani-xwalk-dynasty/:/",
-    "/content/mbachani-xwalk-dynasty/configuration:/.helix/config.json"
+    "/content/xwalk-dynasty/:/",
+    "/content/xwalk-dynasty/configuration:/.helix/config.json"
   ]
 }
